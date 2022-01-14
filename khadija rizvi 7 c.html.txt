@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<TITLE>Khadija Rizvi VII C</TITLE></HEAD>
+
+<BODY bgcolor="Blue" leftmargin="100"Topmargin="25"<p align="centre">
+<B><U><FONT size="6"face="homewardbound"color="Red">7 Wonders Of The World</FONT></U></B>	
+<img src="https://lonelyplanetwpnews.imgix.net/2018/01/taj-mahal-visitor-limits.jpg"height="500"width="500"align="middle">
+<br><Font size="5" face="Monotype corsiva" color="white">
+<ul type="square">
+<li><b><i> The Taj Mahal,India</i></b></li>
+<li><b><i> The Pyramids Of Chichen Itza,Mexico</i></b></li>
+<li><b><i> The Christ Of Redeemer,Brazil</i></b></li>
+<li><b><i> The Roman Colosseum,Italy</i></b></li>
+<li><b><i> The Petra House,Jordan</i></b></li>
+<li><b><i> Machu Picchu,Peru</i></b></li>
+<li><b><i> The Great Wall Of China,China</i></i></li></u></font><br><br>
+<p align ="right><font face ="arial"color="white"><i>
+</FONT>
+</BODY>
+</html>
